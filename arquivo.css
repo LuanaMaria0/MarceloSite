@@ -1,0 +1,35 @@
+img{
+position:relativa;
+height:200px; width:200px;
+left:100px; right:100px;
+}
+
+article{
+      background:#6495ED;
+      height:100px; width:260px;
+      left:200px; right:200px;
+      border: 8px solid violet;
+      border-radius: 12px;
+      border-radius: 10px;
+}
+
+#contato{
+        background:#4682B4;
+        height:100px; width:260px;
+        left:200px; right:200x;
+        border:8px solid #4682B4;
+        border-radius:10px;
+}
+
+#trabalho{
+        background:#778899;
+        height:100px; width:260px;
+        left:200px; right:200x;
+        border:8px solid #778899;
+        border-radius:10px
+
+}
+
+footer{
+      background:#778899;
+}
